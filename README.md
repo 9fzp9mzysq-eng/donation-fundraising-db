@@ -118,5 +118,5 @@ It shows all entities, attributes, and relationships for the system.
 
 Chaimaa Mallas  
 Master’s in Business Analytics  
-CS630 – Final Project  
+CS630  – Final Project  
 Monroe College
