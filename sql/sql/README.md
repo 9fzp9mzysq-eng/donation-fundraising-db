@@ -1,23 +1,29 @@
+# Donation & Fundraising Database System  
+### CS630 Final Project – Chaimaa Mallas
+
+This project is a relational database system designed for a Donation & Fundraising Platform.  
+It includes tables for users, campaigns, beneficiaries, payment methods, donations, and disbursements.
+
+---
+
+## 📌 Project Structure
+
 
 ---
 
 ## 📌 Features Implemented
-- Full ERD design (3NF normalized)
-- Complete schema with constraints (PK/FK)
+
+- Complete ERD design (normalized to 3NF)
+- Full schema with all constraints (PK/FK)
 - Sample data for all tables
 - Reset script for quick rebuild
-- Clean GitHub repository with incremental commits
+- Organized GitHub repository with incremental commits
 
 ---
 
-## 📌 How to Run the Project
+## 📌 How To Run The Project
 
-1. Run `reset.sql` (optional)
-2. Run `schema.sql` to create tables  
-3. Run `sample_data.sql` to insert data  
-4. Use SELECT queries to view tables
-
----
-
-## 📌 ERD Diagram
-The ERD diagram is included in the **ERD/** folder.
+1. (Optional) Run `sql/reset.sql`  
+2. Run `sql/schema.sql` to create all tables  
+3. Run `sql/sample_data.sql` to insert sample data  
+4. View the tables using queries such as:  
