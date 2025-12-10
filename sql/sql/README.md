@@ -7,7 +7,13 @@ It includes tables for users, campaigns, beneficiaries, payment methods, donatio
 ---
 
 ## 📌 Project Structure
-
+sql/
+schema.sql -- table creation statements
+sample_data.sql -- sample inserts
+reset.sql -- drop all tables
+ERD/
+erd-diagram.png -- entity relationship diagram
+README.md -- project overview
 
 ---
 
