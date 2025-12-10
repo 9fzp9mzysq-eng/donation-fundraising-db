@@ -1,0 +1,3 @@
+schema.sql      -> creates the database tables
+sample_data.sql -> inserts initial data
+reset.sql       -> drops all tables for easy rebuild
